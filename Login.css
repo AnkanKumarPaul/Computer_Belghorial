@@ -1,0 +1,146 @@
+body {
+    background-image: -webkit-image-set("photoes/chelsea-fc.gif");
+    color: #ffffff;
+    background-color: rgb(255, 0, 0);
+}
+
+table {
+    background-color: rgb(102, 255, 0);
+    width: 48%;
+    margin-left: 30%;
+    margin-top: 1%;
+    padding: 10px;
+    border-radius: 15px;
+    border: solid;
+    border-color: blue;
+}
+
+.my-output {
+    width: 88%;
+    padding: 5px;
+    margin: 1%;
+    border-radius: 6px;
+    color: rgb(255, 0, 0);
+}
+
+.my-input {
+    width: 88%;
+    padding: 5px;
+    margin: 1%;
+    border-radius: 6px;
+    color: rgb(0, 0, 0);
+}
+
+.my-enter {
+    color: rgb(74, 72, 72);
+}
+
+.project h3 {
+    color: yellow;
+    text-align: center;
+}
+
+.project h4 {
+    color: rgb(255, 255, 251);
+    text-align: center;
+}
+
+.project img {
+    align-self: center;
+    height: 150px;
+    width: 40%;
+    margin-left: 30%;
+    border: solid;
+    border-color: white;
+    border-radius: 0px;
+    padding: 1%;
+    margin-top: 2%;
+}
+
+.project {
+    width: 35%;
+    margin: 1%;
+    align-self: center;
+    box-shadow: 5px 5px 20px 10px rgb(255, 255, 0);
+    padding: 10%px;
+    background-color: rgb(17, 0, 255);
+    margin-left: 36%;
+    border: solid;
+    border-color: rgb(9, 255, 0);
+    border-radius: 20px;
+}
+
+.Check-Box {
+    color: rgb(0, 166, 255);
+}
+
+.field {
+    background-color: rgb(255, 136, 0);
+}
+
+.select {
+    text-align: center;
+}
+
+button {
+    border: solid;
+    border-color: aqua;
+    border-radius: 100px;
+    width: 80%;
+    padding: 5px;
+    margin: 1%;
+    background-color: rgb(249, 253, 2);
+    border-radius: 20px;
+    color: rgb(0, 89, 255);
+}
+
+.btn btn-outline-success {
+    border: solid;
+    border-color: aqua;
+    width: 80%;
+    padding: 5px;
+    margin-left: 10%;
+    background-color: rgb(2, 253, 173);
+    border-radius: 20px;
+    color: rgb(255, 0, 230);
+}
+
+.ShowMenu {
+    background-color: #b80081;
+    padding: 5px;
+    margin-left: 40%;
+    margin-bottom: 50%;
+}
+
+.ShowMenu:hover {
+    background-color: #fffbfe;
+    color: #ff0000;
+    font-size: large;
+    font-family: cursive;
+}
+
+.messagetwo {
+    background-color: rgb(0, 166, 255);
+    color: rgb(238, 255, 0);
+}
+
+.mail {
+    background-color: rgb(255, 255, 255);
+    border: solid;
+    border-color: #ff0000;
+}
+
+table button a {
+    text-decoration: none;
+    color: red;
+}
+
+table button a:hover {
+    font-size: medium;
+    color: rgb(4, 201, 24);
+}
+
+h4 a {
+    text-decoration: none;
+    color: whitesmoke;
+}
